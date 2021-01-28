@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@main
     - name: Excavate
-      uses: Ash258/Scoop-GithubActions@stable
+      uses: 42wim/Scoop-GithubActions@wim
       env:
         GITH_EMAIL: wim@42.be
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

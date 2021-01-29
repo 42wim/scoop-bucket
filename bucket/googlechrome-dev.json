@@ -1,5 +1,5 @@
 {
-    "version": "89.0.4389.23",
+    "version": "90.0.4400.8",
     "description": "Fast, secure, and free web browser, built for the modern web.",
     "homepage": "https://www.google.com/chrome/dev",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://dl.google.com/release2/chrome/AL5ofkwZ9X4NXr7Dxshj5rs_89.0.4389.23/89.0.4389.23_chrome_installer.exe#/dl.7z",
-            "hash": "d1cc4bb1404d6b244e1a3656949a8b19ff885d01deb829dc0c5df0a408fbde9e"
+            "url": "https://dl.google.com/release2/chrome/APRHJEtranEkMENeSL0-FRA_90.0.4400.8/90.0.4400.8_chrome_installer.exe#/dl.7z",
+            "hash": "f237c3cc9b3db37bb3d4439cf49ca73a16667ebb47585af31822e63f2bff8e68"
         },
         "32bit": {
-            "url": "https://dl.google.com/release2/chrome/ZuhhuPYYVtrzWZzSK3geWw_89.0.4389.23/89.0.4389.23_chrome_installer.exe#/dl.7z",
-            "hash": "93281e13aa35042466ac55417ac003b12701d432a02c1c23107c0e8d24e2711f"
+            "url": "https://dl.google.com/release2/chrome/dEEAHjotbnpVg-qgUS8a-A_90.0.4400.8/90.0.4400.8_chrome_installer.exe#/dl.7z",
+            "hash": "b3af27c9f8d49d891483c9374a935b961e406fa1724e5e3e826e11fff2440a69"
         }
     },
     "installer": {

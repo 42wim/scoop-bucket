@@ -9,3 +9,5 @@ repo contains:
 - googlechrome-beta
 - googlechrome-canary
 - googlechrome-dev
+- matterbridge
+- matterircd

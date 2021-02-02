@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/42wim/matterircd/releases/download/v$version/matterircd-$version-windows-64bit.exe"
+                "url": "https://github.com/42wim/matterircd/releases/download/v$version/matterircd-$version-windows-64bit.exe#/matterircd.exe"
             },
             "32bit": {
-                "url": "https://github.com/42wim/matterircd/releases/download/v$version/matterircd-$version-windows-32bit.exe"
+                "url": "https://github.com/42wim/matterircd/releases/download/v$version/matterircd-$version-windows-32bit.exe#/matterircd.exe"
             }
         }
     }

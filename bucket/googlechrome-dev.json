@@ -1,5 +1,5 @@
 {
-    "version": "91.0.4449.6",
+    "version": "91.0.4449.3",
     "description": "Fast, secure, and free web browser, built for the modern web.",
     "homepage": "https://www.google.com/chrome/dev",
     "license": {
@@ -12,8 +12,8 @@
             "hash": "d19e24649974321b96d740d581bc3d3b138eb4e8ae01e708084c1cd7f4d88d68"
         },
         "32bit": {
-            "url": "https://dl.google.com/release2/chrome/AOWmT105Yf9rhHE9RsfEKEo_91.0.4449.6/91.0.4449.6_chrome_installer.exe#/dl.7z",
-            "hash": "6973e0dd3757b9dd20ac437a0380f4d0662d7483a195326270adeeee53d39d4a"
+            "url": "https://dl.google.com/release2/chrome/YksHTXvbRfa6xGb48hC2Jg_91.0.4449.3/91.0.4449.3_chrome_installer.exe#/dl.7z",
+            "hash": "0a6934559de0d8c27a74551257bfd001c44d3dc660e1c57b3e2535019ac01097"
         }
     },
     "installer": {

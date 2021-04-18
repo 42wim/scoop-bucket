@@ -11,3 +11,9 @@ repo contains:
 - googlechrome-dev
 - matterbridge
 - matterircd
+- msedge-stable
+- msedge-beta
+- msedge-dev
+- msedge-canary
+- flameshot
+- nomachine-enterprise

@@ -17,3 +17,4 @@ repo contains:
 - msedge-canary
 - flameshot
 - nomachine-enterprise
+- ncspot

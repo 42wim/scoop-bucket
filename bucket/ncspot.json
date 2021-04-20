@@ -1,0 +1,29 @@
+{
+    "version": "0.6.0_1",
+    "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
+    "homepage": "https://github.com/hrkfdn/ncspot",
+    "license": "BSD-2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/42wim/ncspot/releases/download/v0.6.0_1/ncspot.exe",
+            "hash": "8c53f82e80f51f367742bcb8ca83b90b365c0dc53144321acb6c8f6226c3148c"
+        }
+    },
+    "bin": "ncspot.exe",
+    "shortcuts": [
+        [
+            "ncspot.exe",
+            "ncspot"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/42wim/ncspot"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/42wim/ncspot/releases/download/v$version/ncspot.exe"
+            }
+        }
+    }
+}

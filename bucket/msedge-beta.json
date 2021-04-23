@@ -1,5 +1,5 @@
 {
-    "version": "90.0.818.42",
+    "version": "90.0.818.46",
     "description": "Fast, secure, and free web browser, built for the modern web based",
     "homepage": "https://www.microsoft.com/en-us/edge",
     "license": {
@@ -7,8 +7,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c550477-0ab4-40c7-b6ca-c324a56873f7?P1=1619580879&P2=404&P3=2&P4=SYg8awnc%2fV7PUgMHqrBiiRuEouoI33gS5XgjlyX%2fgrLC9%2bzff%2bjjceVbTvhJ%2fFc0oEo%2bOvxGd8C%2bgjNDcYEhQw%3d%3d#/dl.7z",
-            "hash": "919e4f824a8feaa8ab74313792393ddd2f0f5f17e3864b505ae74e9027878a80"
+            "url": "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/133ae7f3-0893-4dc4-9fec-ddc1190d8e7a?P1=1619753694&P2=404&P3=2&P4=cS02hQoOOWFyhY%2fMjGDToYv7KmCQBWvsOE0KljLPKyo9i5Ofw9x0zS6a4MnxTiZcIWmG%2flj3IMJrvvpWxMzekA%3d%3dEhQw%3d%3d#/dl.7z",
+            "hash": "1ea8eacc3ec1417ee8eab690a81e13536b8dfaeeb7d0f6cb9b538842b4de55d8"
         }
     },
     "pre_install": [

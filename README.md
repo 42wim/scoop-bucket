@@ -15,6 +15,4 @@ repo contains:
 - msedge-beta
 - msedge-dev
 - msedge-canary
-- flameshot
 - nomachine-enterprise
-- ncspot

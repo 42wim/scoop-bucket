@@ -6,12 +6,11 @@ name: Excavator
 jobs:
   excavate:
     name: Excavator
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
     - uses: actions/checkout@main
     - name: Excavate
-      uses: 42wim/Scoop-GithubActions@wim
+      uses: 42wim/Scoop-GithubActions@main
       env:
-        GITH_EMAIL: wim@42.be
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SKIP_UPDATED: '1'
